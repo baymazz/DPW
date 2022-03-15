@@ -1,0 +1,12 @@
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+.p1 p {
+    background-color: brown;    
+    text-align: center;
+}
